@@ -1,0 +1,24 @@
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\bin\Debug\ASM.exe.config
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\bin\Debug\ASM.exe
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\bin\Debug\ASM.pdb
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\bin\Debug\ASM.xml
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.Login.resources
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.Resources.resources
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.vbproj.GenerateResource.Cache
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.exe
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.xml
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.pdb
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.Main.resources
+c:\users\tien\documents\visual studio 2012\Projects\ASM\ASM\obj\Debug\ASM.QuanLySP.resources
+C:\Users\TIEN\Desktop\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.xml
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\TIEN\Desktop\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\TIEN\Desktop\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\TIEN\Desktop\ASM\ASM\bin\Debug\ASM.xml
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.Login.resources
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.Main.resources
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.Resources.resources
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.QuanLySP.resources
+C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.vbproj.GenerateResource.Cache
