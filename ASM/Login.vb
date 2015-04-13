@@ -11,7 +11,7 @@ Public Class Login
             KetNoi.Open()
             sqlAdapter.Fill(tb)
             If tb.Rows.Count > 0 Then
-                MessageBox.Show("Kết nối thành công")
+                MessageBox.Show("Kết nối tài khoản thành công")
                 Main.Show()
                 Me.Hide()
             Else
@@ -24,7 +24,5 @@ Public Class Login
 
     End Sub
 
-    Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
+   
 End Class

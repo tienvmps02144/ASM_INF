@@ -22,3 +22,7 @@ C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.Main.resources
 C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.Resources.resources
 C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.QuanLySP.resources
 C:\Users\TIEN\Desktop\ASM\ASM\obj\Debug\ASM.vbproj.GenerateResource.Cache
+C:\Users\TIEN\Desktop\ASM_INF\ASM\bin\Debug\ASM.exe.config
+C:\Users\TIEN\Desktop\ASM_INF\ASM\obj\Debug\ASM.exe
+C:\Users\TIEN\Desktop\ASM_INF\ASM\obj\Debug\ASM.xml
+C:\Users\TIEN\Desktop\ASM_INF\ASM\obj\Debug\ASM.pdb
